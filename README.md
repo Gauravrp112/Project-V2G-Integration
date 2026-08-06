@@ -22,3 +22,8 @@ PROJECT MEMBERS:
 7.Rohan Suryavanshi
 <br>
 8.Dhiraj Tikode
+<br><br>
+ADVANTAGES:<br>
+1.Battery degradation of EV's due to power/electrical stress stored from long time in it gets released <br>in interval of time.<br>
+2.EV owner gets benefit of charging EV at off-peak load in rate price and discharging electricity <br>during peak period when rate of electricity is comparitively high.<br>
+3.Grid will get power backup from these stand by EV's during peak load and less blackouts will happen.
