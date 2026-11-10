@@ -5,7 +5,8 @@ ARE USED AS STORAGE UNITS AND THE STORED POWER IS USED WHEN THE GRID REQUIRES PO
 <br>
 THIS PROJECT CONSIST OF OVERALL SELF MADE INVERTER, RECTIFIERS AND BATTERY MANAGEMENT SYSTEM.
 <br>
-![Project Image](Real Photos and Videos/v2g_image_2.jpeg)
+<img src="Real Photos and Videos/v2g_image_2.jpeg" alt="Project Image">
+
 <br>
 PROJECT MEMBERS:
 <br>
